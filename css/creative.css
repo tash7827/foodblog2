@@ -163,6 +163,8 @@ header .header-content {
   position: relative;
   text-align: center;
   padding: 100px 15px 100px;
+  filter: blur(3px);
+  filter: brightness(80%);
   width: 100%;
 }
 header .header-content .header-content-inner h1 {
